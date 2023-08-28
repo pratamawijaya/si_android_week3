@@ -12,3 +12,8 @@ class MainActivity : AppCompatActivity() {
 
 // git config --global user.name "pratamawijaya"
 // git config --global user.email "set.mnemonix@gmail.com"
+
+// git init
+// git add .
+// git commit -m "first commit" # commit changes
+// git push -u origin main  # push to remote
